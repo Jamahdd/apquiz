@@ -1,11 +1,11 @@
-# 1. In your on words, describe what a variable is.
+# 1. In your on words, describe what a variable is. A variable i like a change of somthing or importan factor and it can not start with a number
 
 # 2. Name three (3) operators we've learned about in class and describe 
-# a situation where you would use each one. 
+# a situation where you would use each one.  Arithmetic operator used for when there is a common math operation-Assignment operator use for when you need to put value to a variable- comparsion operator to compare 2 valuse we needed to
 
-# 3. Describe the difference between camal case and pascal case.
+# 3. Describe the difference between camal case and pascal case. pascal case requires the fist letter of the word to alslo be capitalized camal doesn't
 
-# 4. Which operator is being used in the example below
+# 4. Which operator is being used in the example below. logical operator
 numberOfApples = 10
 numberOfOranges = 12
 
