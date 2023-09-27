@@ -1,0 +1,15 @@
+#print("jamahd")
+
+Input()
+
+def welcomeMsg():
+    print("welcome to python")
+Execution
+    welcomeMsg()
+
+    print('welcome to class')
+    
+    #call it
+    welcometoclass()
+
+    

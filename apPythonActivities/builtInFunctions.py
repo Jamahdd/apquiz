@@ -21,9 +21,10 @@ number_of_books = 10
 # convert the following floats into a integers
     12.34
     23.33
-
+    
     print(int(12.34))
     print(int(23.33))
+    
 
     
 
@@ -36,6 +37,6 @@ print(num_one + num_two)
 print(int(num_one + num_two))
 #modify the following code below to 
 name_of_pet = "spuny"
-age_of_pet = 10
+age_of_pet = str(10)
 
-print("this is my dog"+ name_of_pet+". He is" + age_of_pet+ "years old.")
+print("this is my dog"+ name_of_pet +". He is" + age_of_pet + "years old.")
